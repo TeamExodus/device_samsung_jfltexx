@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common"
+  },
+  {
+    "repository": "vendor_samsung_jf-gsm-common",
+    "target_path": "vendor/samsung/jf-gsm-common"
+  }
+]
